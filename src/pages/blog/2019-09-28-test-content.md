@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Test Content
-date: 2019-09-28T02:30:35.792Z
+date: 2019-09-30T02:30:35.792Z
 description: This will be great
 featuredpost: true
 featuredimage: /img/kooyone.png
